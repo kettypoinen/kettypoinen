@@ -12,7 +12,7 @@
     <th align="left">ILLUSTRATION</th>
   </tr>
   <tr>
-    <td align="left">AI for Financial Workflows</td>
+    <td align="left">AI for Investment Workflows</td>
     <td align="left">
       <a href="https://kettypoinen.github.io/portfolio/">
         https://kettypoinen.github.io/portfolio/
